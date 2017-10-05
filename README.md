@@ -3,7 +3,7 @@ Introduction
 
 1.Java (Servlet) is used to design the backend of the website using MVC(Model View Controller) Architecture.
 2.Mlab (MongoDB hosting platform) was used as a cloud database service provider.
-3.Project was hosted on Bluemix . Link -http://projectappointment.mybluemix.net 
+3.Project was hosted on Bluemix .
 
 Motivation
 
