@@ -1,4 +1,4 @@
-# ProjectAppointment
+# MedicalAppointment
 Introduction
 
 1.Java (Servlet) is used to design the backend of the website using MVC(Model View Controller) Architecture.
